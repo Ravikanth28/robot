@@ -2,6 +2,5 @@ opencv-python
 pandas
 SpeechRecognition
 pyttsx3
-threading
-queue
+streamlit
 pandasai
