@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless
 pandas
 SpeechRecognition
 pyttsx3
