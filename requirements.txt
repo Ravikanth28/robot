@@ -4,3 +4,4 @@ SpeechRecognition
 pyttsx3
 streamlit
 pandasai
+pyyaml
